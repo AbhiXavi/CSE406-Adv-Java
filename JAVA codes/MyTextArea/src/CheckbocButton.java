@@ -19,10 +19,10 @@ public class CheckbocButton {
         JCheckBox b5 = new JCheckBox("Ph.D");
 
         b1.setBounds(100,100,250,50);
-        b1.setBounds(100,150,250,50);
-        b1.setBounds(100,200,250,50);
-        b1.setBounds(100,250,250,50);
-        b1.setBounds(100,300,250,50);
+        b2.setBounds(100,150,250,50);
+        b3.setBounds(100,200,250,50);
+        b4.setBounds(100,250,250,50);
+        b5.setBounds(100,300,250,50);
 
         c.add(b1);
         c.add(b2);
